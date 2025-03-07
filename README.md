@@ -1,2 +1,1 @@
-# C++ -codes written by me in my second semster.
-CPP codes
+# C++ codes written in cpp by dipendra joshi in his second semster.
