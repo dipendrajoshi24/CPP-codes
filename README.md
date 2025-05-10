@@ -22,6 +22,3 @@ Array & 2D array
 
 Functions
 
-# Contributions
-
-This repository is a personal collection of programs written for learning and practice. However, feel free to suggest improvements or optimizations.
