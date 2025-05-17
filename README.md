@@ -10,8 +10,8 @@ The repository includes solutions and implementations for:
 * bject-Oriented Programming (OOP) concepts
 * File Handling
 * Sorting & Searching Algorithms
-Dynamic Memory Allocation
-Problem-Solving Exercises
-Array & 2D array
-Functions
+* Dynamic Memory Allocation
+* Problem-Solving Exercises
+* Array & 2D array
+* Functions
 
