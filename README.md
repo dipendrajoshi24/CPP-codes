@@ -12,5 +12,5 @@ The repository includes solutions and implementations for:
 * Dynamic Memory Allocation
 * Problem-Solving Exercises
 * Array & 2D array
-* Functions
+* Functions.
 
