@@ -4,7 +4,7 @@ This repository contains C++ programs written by Dipendra Joshi during his secon
 
 ## Contents
 
-# The repository includes solutions and implementations for:
+The repository includes solutions and implementations for:
 * bject-Oriented Programming (OOP) concepts
 * File Handling
 * Sorting & Searching Algorithms
